@@ -1,4 +1,4 @@
-RecordCount: 504
+RecordCount: 511
 
 console load MysteryBoxContest2022/1-Maps/cabob
    1
@@ -92,8 +92,8 @@ console load MysteryBoxContest2022/1-Maps/cabob
    9,U,C
   10,L,Z
    9,U,X
-   9,U,C
-   9,U,X
+   9,U,Z
+   8,U,X
   10,R,Z
    8,U,X
   15,U,C
@@ -112,4 +112,4 @@ console load MysteryBoxContest2022/1-Maps/cabob
   14,L,U,X
  135,R
 
-ChapterTime: 0:11.254(662)
+ChapterTime: 0:11.237(661)
